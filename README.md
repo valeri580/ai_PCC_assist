@@ -1,6 +1,6 @@
 # Личный карьерный ассистент https://t.me/PCareerC_bot
 
-ссылка на проект -
+скриншот1 -
 
 ![Иллюстрация к проекту](https://github.com/valeri580/ai_PCC_assist/blob/main/2025-02-24_16-51-53.png?raw=true)
 
